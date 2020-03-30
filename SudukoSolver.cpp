@@ -26,6 +26,8 @@ Sudoku solution (non-duplication across rows,
 columns, and boxes) */
 bool SolveSudoku(int grid[N][N]) 
 { 
+	
+	
 	int row, col; 
 
 	// If there is no unassigned location, 
